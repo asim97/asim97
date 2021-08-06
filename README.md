@@ -1,8 +1,4 @@
 
-
-
-## GitHub Summary
-
 <h1 align="center">Hi 👋, I'm Mohamed Salem</h1>
 <!--
 <h3 align="center">MEng of Cyber Security student with BME degree</h3>
