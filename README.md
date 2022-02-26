@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Salem</h1>
 <!--
 <h3 align="center">MEng of Cyber Security student with BME degree</h3>
--->
-<p align="center"> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/13475515/152886845-765482da-70ac-4d86-bb3d-b0ebec4e2e0c.gif" alt="asim97" /></a> </p>
 
+<p align="center"> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/13475515/152886845-765482da-70ac-4d86-bb3d-b0ebec4e2e0c.gif" alt="asim97" /></a> </p>
+-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asim97&label=Profile%20views&color=0e75b6&style=flat" alt="asim97" /> </p>
 
