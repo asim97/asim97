@@ -28,6 +28,10 @@
  <!-- 
 <img src="https://user-images.githubusercontent.com/13475515/128546448-5fa6b093-670f-4b58-95b9-64778527162d.png" data-canonical-src="https://user-images.githubusercontent.com/13475515/128546448-5fa6b093-670f-4b58-95b9-64778527162d.png" width="5%" height="5%" />
  --> 
+<a href="https://github.com/asim97/flothers_malware_task">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asim97&repo=flothers_malware_task&theme=nightowl " />
+</a>
+ 
 <a href="https://github.com/asim97/CV_Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asim97&repo=CV_Projects&theme=nightowl " />
 </a>
