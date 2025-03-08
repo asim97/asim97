@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/13475515/152886845-765482da-70ac-4d86-bb3d-b0ebec4e2e0c.gif" alt="asim97" /></a> </p>
 -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=asim97&label=Profile%20views&color=0e75b6&style=flat&base=5000&abbreviated=true" alt="asim97" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=asim97&label=Profile%20views&color=0e75b6&style=flat&base=5000" alt="asim97" /> </p>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asim97" alt="asim97" /></a> </p>
