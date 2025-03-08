@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/13475515/152886845-765482da-70ac-4d86-bb3d-b0ebec4e2e0c.gif" alt="asim97" /></a> </p>
 -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=asim97&label=Profile%20views&color=0e75b6&style=flat" alt="asim97" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=asim97&label=Profile%20views&color=0e75b6&style=flat&base=5000&abbreviated=true" alt="asim97" /> </p>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asim97" alt="asim97" /></a> </p>
@@ -22,20 +22,9 @@
 
 
 <div align="center">
-<a href="https://github.com/asim97/SecureCodingDojo_DEBI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asim97&repo=SecureCodingDojo_DEBI&theme=nightowl " />
-</a>
  <!-- 
 <img src="https://user-images.githubusercontent.com/13475515/128546448-5fa6b093-670f-4b58-95b9-64778527162d.png" data-canonical-src="https://user-images.githubusercontent.com/13475515/128546448-5fa6b093-670f-4b58-95b9-64778527162d.png" width="5%" height="5%" />
  --> 
-<a href="https://github.com/asim97/flothers_malware_task">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asim97&repo=flothers_malware_task&theme=nightowl " />
-</a>
- 
-<a href="https://github.com/asim97/CV_Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asim97&repo=CV_Projects&theme=nightowl " />
-</a>
-  
 </div>
 </br>
 <div align="center">
